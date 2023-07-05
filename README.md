@@ -1,4 +1,4 @@
-#### Luwicoin's TRC20 contract address
+## Luwicoin's TRC20 contract address
 
 It is a contract in accordance with ERC20 standards.
 
